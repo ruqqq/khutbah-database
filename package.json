@@ -1,0 +1,18 @@
+{
+  "name": "khutbah-database",
+  "version": "1.0.0",
+  "description": "Weekly MUIS (Singapore) Friday khutbah index, scraped into data.json",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scrape": "bun run tools/scrape.ts",
+    "scrape:dry": "bun run tools/scrape.ts --dry-run",
+    "test": "bun test",
+    "check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.2.0",
+    "typescript": "^5.6.0"
+  },
+  "license": "MIT"
+}

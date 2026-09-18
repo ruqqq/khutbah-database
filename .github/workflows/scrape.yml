@@ -1,0 +1,37 @@
+name: Scrape MUIS khutbahs
+
+on:
+  schedule:
+    # Thu 09:00 / 15:00 SGT and Fri 01:00 / 07:00 SGT (UTC+8).
+    - cron: "0 1,7 * * 4"
+    - cron: "0 17,23 * * 4"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - run: bun install --frozen-lockfile
+
+      - run: bun run scrape
+
+      - name: Commit data.json if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git diff --quiet --cached || git commit -m "data: update khutbahs $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
