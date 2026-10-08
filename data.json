@@ -1,7 +1,33 @@
 {
-  "generatedAt": "2026-10-01T06:45:36.922Z",
+  "generatedAt": "2026-10-08T06:56:26.820Z",
   "source": "https://www.muis.gov.sg/resources/khutbah-and-religious-advice/khutbah/",
   "khutbahs": [
+    {
+      "date": "2026-10-09",
+      "entries": {
+        "en": {
+          "slug": "islam-and-personal-well-being-",
+          "title": "Islam and personal well-being",
+          "description": "Islam places importance on caring for our personal well-being. Doing so is not an act of selfishness. Rather, it provides the foundation that enables us to continue caring for one another.",
+          "pageUrl": "https://www.muis.gov.sg/resources/khutbah-and-religious-advice/khutbah/islam-and-personal-well-being-/",
+          "pdfUrl": "https://isomer-user-content.by.gov.sg/48/bce34a53-f274-4d27-8d09-c5148060963f/E26Oct9%20-%20Islam%20and%20Personal%20Well-Being.pdf"
+        },
+        "ms": {
+          "slug": "islam-dan-kesejahteraan-diri-",
+          "title": "Islam dan kesejahteraan diri",
+          "description": "Islam prihatin terhadap penjagaan kesejahteraan diri. Ia bukanlah bererti kita mementingkan diri sendiri, bahkan ianya adalah asas untuk kita terus saling menyantuni.",
+          "pageUrl": "https://www.muis.gov.sg/resources/khutbah-and-religious-advice/khutbah/islam-dan-kesejahteraan-diri-/",
+          "pdfUrl": "https://isomer-user-content.by.gov.sg/48/6856795e-6b1c-4962-b69e-1bec7a03d098/R26Okt9%20-%20Islam%20&amp;%20Kesejahteraan%20Diri.pdf"
+        },
+        "ta": {
+          "slug": "islam-and-personal-well-being-tamil",
+          "title": "இஸ்லாமும் தனிப்பட்ட நல்வாழ்வும்",
+          "description": "Islam places importance on caring for our personal well-being. Doing so is not an act of selfishness. Rather, it provides the foundation that enables us to continue caring for one another.",
+          "pageUrl": "https://www.muis.gov.sg/resources/khutbah-and-religious-advice/khutbah/islam-and-personal-well-being-tamil/",
+          "pdfUrl": "https://isomer-user-content.by.gov.sg/48/cf3cd9a2-1498-43af-a465-c0df05a8c58e/T26Oct9%20-%20Islam%20and%20Personal%20Well-Being.pdf"
+        }
+      }
+    },
     {
       "date": "2026-10-02",
       "entries": {
