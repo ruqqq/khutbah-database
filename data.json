@@ -1,7 +1,33 @@
 {
-  "generatedAt": "2026-10-08T06:56:26.820Z",
+  "generatedAt": "2026-10-15T05:29:25.811Z",
   "source": "https://www.muis.gov.sg/resources/khutbah-and-religious-advice/khutbah/",
   "khutbahs": [
+    {
+      "date": "2026-10-16",
+      "entries": {
+        "en": {
+          "slug": "islam-and-the-etiquette-of-neighbourliness-",
+          "title": "Islam and the etiquette of neighbourliness",
+          "description": "The character we display reflects the teachings of Islam to our neighbours. They may not learn about it from religious talks, but they come to know it through the values and manners we show in our daily lives.",
+          "pageUrl": "https://www.muis.gov.sg/resources/khutbah-and-religious-advice/khutbah/islam-and-the-etiquette-of-neighbourliness-/",
+          "pdfUrl": "https://isomer-user-content.by.gov.sg/48/f19b7477-ef39-410e-82cd-dcbc5cb246dc/E26Oct16%20-%20Islam%20and%20The%20Etiquette%20of%20Neighbourliness.pdf"
+        },
+        "ms": {
+          "slug": "islam-dan-adab-bertetangga-",
+          "title": "Islam dan adab bertetangga",
+          "description": "Akhlak yang kita paparkan menggambarkan ajaran Islam kepada tetangga kita. Mereka mungkin tidak mempelajarinya daripada ceramah agama, tetapi melalui nilai dan adab yang kita pamerkan dalam kehidupan seharian.",
+          "pageUrl": "https://www.muis.gov.sg/resources/khutbah-and-religious-advice/khutbah/islam-dan-adab-bertetangga-/",
+          "pdfUrl": "https://isomer-user-content.by.gov.sg/48/a28cdcd6-6a70-44f9-a041-e86bef9f083f/R26Oct16%20-%20Islam%20dan%20Adab%20Bertetangga.pdf"
+        },
+        "ta": {
+          "slug": "islam-and-the-etiquette-of-neighbourliness-tamil",
+          "title": "இஸ்லாமும் அண்டை வீட்டார் சம்பந்தமான பண்பாட்டு நெறிமுறைகளும்",
+          "description": "The character we display reflects the teachings of Islam to our neighbours. They may not learn about it from religious talks, but they come to know it through the values and manners we show in our daily lives.",
+          "pageUrl": "https://www.muis.gov.sg/resources/khutbah-and-religious-advice/khutbah/islam-and-the-etiquette-of-neighbourliness-tamil/",
+          "pdfUrl": "https://isomer-user-content.by.gov.sg/48/6f050294-4835-4c00-ac3b-956ede822815/T26Oct16%20-%20Islam%20and%20The%20Etiquette%20of%20Neighbourliness.pdf"
+        }
+      }
+    },
     {
       "date": "2026-10-09",
       "entries": {
