@@ -1,7 +1,33 @@
 {
-  "generatedAt": "2026-10-22T12:43:42.424Z",
+  "generatedAt": "2026-10-29T06:41:35.363Z",
   "source": "https://www.muis.gov.sg/resources/khutbah-and-religious-advice/khutbah/",
   "khutbahs": [
+    {
+      "date": "2026-10-30",
+      "entries": {
+        "en": {
+          "slug": "the-qur-an-illuminates-the-heart--beautifies-the-character-",
+          "title": "The Qur’an illuminates the heart, beautifies the character",
+          "description": "Allah s.w.t. describes the Qur’an; the Kalamullah (Word of Allah), with majestic attributes, among them: nur (light), huda (guidance), syifa’ (healing) and tazkirah (reminder). These attributes prompt us to assess our relationship with the Qur’an.",
+          "pageUrl": "https://www.muis.gov.sg/resources/khutbah-and-religious-advice/khutbah/the-qur-an-illuminates-the-heart--beautifies-the-character-/",
+          "pdfUrl": "https://isomer-user-content.by.gov.sg/48/00d29226-4d61-47d9-a0cc-d88cf25f1df6/E26Oct30%20-%20The%20Qur’an%20Illuminates%20the%20Heart,%20Beautifies%20the%20Character.pdf"
+        },
+        "ms": {
+          "slug": "al-quran-menyinari-hati--memperindah-peribadi-",
+          "title": "Al-Quran menyinari hati, memperindah peribadi",
+          "description": "Allah s.w.t. menggambarkan Al-Quran atau Kalamullah dengan sifat-sifat yang agung, antaranya: nur (cahaya), huda (petunjuk), syifa’ (penawar) dan tazkirah (peringatan).  Sifat-sifat ini mendorong kita menilai hubungan kita dengan Al-Quran.",
+          "pageUrl": "https://www.muis.gov.sg/resources/khutbah-and-religious-advice/khutbah/al-quran-menyinari-hati--memperindah-peribadi-/",
+          "pdfUrl": "https://isomer-user-content.by.gov.sg/48/e5420394-86e4-4fd0-a958-1201db73a793/R26Oct30%20-%20Al-Quran%20Menyinari%20Hati,%20Memperindah%20Peribadi.pdf"
+        },
+        "ta": {
+          "slug": "the-qur-an-illuminates-the-heart--beautifies-the-character-tamil",
+          "title": "திருக்குர்ஆன் இதயத்தை ஒளிரச் செய்கிறது, குணத்தை அழகுபடுத்துகிறது",
+          "description": "Allah s.w.t. describes the Qur’an; the Kalamullah (Word of Allah), with majestic attributes, among them: nur (light), huda (guidance), syifa’ (healing) and tazkirah (reminder). These attributes prompt us to assess our relationship with the Qur’an.",
+          "pageUrl": "https://www.muis.gov.sg/resources/khutbah-and-religious-advice/khutbah/the-qur-an-illuminates-the-heart--beautifies-the-character-tamil/",
+          "pdfUrl": "https://isomer-user-content.by.gov.sg/48/fb726f9c-71c5-4f43-bc19-8c9965c91bdb/T26Oct30%20-%20The%20Qur’an%20Illuminates%20the%20Heart,%20Beautifies%20the%20Character.pdf"
+        }
+      }
+    },
     {
       "date": "2026-10-23",
       "entries": {
