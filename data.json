@@ -1,7 +1,33 @@
 {
-  "generatedAt": "2026-10-29T06:41:35.363Z",
+  "generatedAt": "2026-11-05T22:37:44.917Z",
   "source": "https://www.muis.gov.sg/resources/khutbah-and-religious-advice/khutbah/",
   "khutbahs": [
+    {
+      "date": "2026-11-06",
+      "entries": {
+        "en": {
+          "slug": "islam--intellect-and-ai-",
+          "title": "Islam, intellect and AI",
+          "description": "The Quran repeatedly calls upon humanity to exercise reason, to contemplate, and to think. Allah s.w.t. invites us to pay attention to our intellectual capacity and our power of reasoning. Why? Because it helps us distinguish truth from falsehood, and right from wrong. Our intellect influences our daily decisions, which in turn shape our character, our conduct and our religious life.",
+          "pageUrl": "https://www.muis.gov.sg/resources/khutbah-and-religious-advice/khutbah/islam--intellect-and-ai-/",
+          "pdfUrl": "https://isomer-user-content.by.gov.sg/48/7980850c-a25e-4558-9021-ba4e1d90e19f/E26Nov6%20-%20Islam,%20Intellect%20and%20AI.pdf"
+        },
+        "ms": {
+          "slug": "islam--intelek-dan-ai",
+          "title": "Islam, intelek dan AI",
+          "description": "Al-Quran berulang kali menyeru manusia agar menggunakan akal, supaya merenung dan berfikir.  Allah s.w.t. mengundang kita memerhatikan keupayaan intelek dan akal pemikiran. Kenapa? Kerana ia berupaya membantu kita membezakan kebenaran daripada kebatilan, dan yang betul daripada yang salah.  Intelek kita mempengaruhi keputusan harian kita, yang seterusnya membentuk keperibadian, tingkah laku, dan kehidupan beragama kita.",
+          "pageUrl": "https://www.muis.gov.sg/resources/khutbah-and-religious-advice/khutbah/islam--intelek-dan-ai/",
+          "pdfUrl": "https://isomer-user-content.by.gov.sg/48/a184435e-cb71-47bf-918a-0d5d968b5ff5/R26Nov6%20-%20Islam,%20Intelek%20dan%20AI.pdf"
+        },
+        "ta": {
+          "slug": "islam-intellect-and-ai-tamil",
+          "title": "இஸ்லாமும், அறிவுத்திறன் மற்றும் செயற்கை நுண்ணறிவும்",
+          "description": "The Quran repeatedly calls upon humanity to exercise reason, to contemplate, and to think. Allah s.w.t. invites us to pay attention to our intellectual capacity and our power of reasoning. Why? Because it helps us distinguish truth from falsehood, and right from wrong. Our intellect influences our daily decisions, which in turn shape our character, our conduct and our religious life.",
+          "pageUrl": "https://www.muis.gov.sg/resources/khutbah-and-religious-advice/khutbah/islam-intellect-and-ai-tamil/",
+          "pdfUrl": "https://isomer-user-content.by.gov.sg/48/61c6e9b1-3433-4dfa-a03a-f129b91910be/T26Nov6%20-%20Islam,%20Intellect%20and%20AI.pdf"
+        }
+      }
+    },
     {
       "date": "2026-10-30",
       "entries": {
