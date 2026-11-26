@@ -1,7 +1,33 @@
 {
-  "generatedAt": "2026-11-19T08:18:19.788Z",
+  "generatedAt": "2026-11-26T09:06:03.395Z",
   "source": "https://www.muis.gov.sg/resources/khutbah-and-religious-advice/khutbah/",
   "khutbahs": [
+    {
+      "date": "2026-11-27",
+      "entries": {
+        "en": {
+          "slug": "-ibadur-rahman-humility-and-patience-",
+          "title": "'Ibadur-Rahman: Humility and patience",
+          "description": "Humility arises from the awareness that greatness and honour belong to Allah, and that we are only His small servants.",
+          "pageUrl": "https://www.muis.gov.sg/resources/khutbah-and-religious-advice/khutbah/-ibadur-rahman-humility-and-patience-/",
+          "pdfUrl": "https://isomer-user-content.by.gov.sg/48/4907d74c-a403-4fcd-8291-aeb7ef5157fe/E26Nov27%20-%20&#x27;Ibadur-Rahman%20Humility%20and%20Patience.pdf"
+        },
+        "ms": {
+          "slug": "-ibadur-rahman-kerendahan-hati-dan-kesabaran-",
+          "title": "‘Ibadur-Rahman: Kerendahan hati dan kesabaran",
+          "description": "Kerendahan hati terbit daripada kesedaran bahawa keagungan dan kemuliaan adalah milik Allah, dan kita hanyalah hamba-Nya yang kerdil.",
+          "pageUrl": "https://www.muis.gov.sg/resources/khutbah-and-religious-advice/khutbah/-ibadur-rahman-kerendahan-hati-dan-kesabaran-/",
+          "pdfUrl": "https://isomer-user-content.by.gov.sg/48/9eca6364-5344-4178-9a56-750de144d3ee/R26Nov27%20-%20&#x27;Ibadur-Rahman%20Kerendahan%20Hati%20dan%20Kesabaran.pdf"
+        },
+        "ta": {
+          "slug": "-ibadur-rahman-humility-and-patience-tamil",
+          "title": "மென்மையானத் தன்மை தான், மோதலுக்கான சரியானத் தீர்வு",
+          "description": "Humility arises from the awareness that greatness and honour belong to Allah, and that we are only His small servants",
+          "pageUrl": "https://www.muis.gov.sg/resources/khutbah-and-religious-advice/khutbah/-ibadur-rahman-humility-and-patience-tamil/",
+          "pdfUrl": "https://isomer-user-content.by.gov.sg/48/093073ac-ca78-4cd4-bc7a-dddd0a58a35f/T26Nov27%20-%20&#x27;Ibadur-Rahman%20Humility%20and%20Patience.pdf"
+        }
+      }
+    },
     {
       "date": "2026-11-20",
       "entries": {
